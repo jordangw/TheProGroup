@@ -1,0 +1,28 @@
+HTTrack3.49-1+htsswf+htsjava launched on Mon, 12 Jun 2017 10:10:53 at theprogroup.co.nz +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" theprogroup.co.nz -O1 "C:\My Web Sites\TheProGroup" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:10:54	Warning: 	Note: due to theprogroup.co.nz remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+10:13:59	Warning: 	File not parsed, looks like binary: theprogroup.co.nz/wp-content/plugins/revslider/public/assets/css/openhand.cur
+10:13:59	Warning: 	File not parsed, looks like binary: theprogroup.co.nz/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+10:13:59	Error: 	"Not Found" (404) at link theprogroup.co.nz/wp-content/themes/namo/mCSB_buttons.png (from theprogroup.co.nz/wp-content/themes/namo/css/flexslider.css?ver=4.8)
+10:13:59	Warning: 	Moved Permanently for theprogroup.co.nz/?p=30
+10:13:59	Warning: 	File has moved from theprogroup.co.nz/?p=30 to http://theprogroup.co.nz/about-us/
+10:13:59	Warning: 	Moved Permanently for theprogroup.co.nz/?p=3111
+10:13:59	Warning: 	File has moved from theprogroup.co.nz/?p=3111 to http://theprogroup.co.nz/groutpro/
+10:14:06	Warning: 	Moved Permanently for theprogroup.co.nz/?p=3114
+10:14:06	Warning: 	File has moved from theprogroup.co.nz/?p=3114 to http://theprogroup.co.nz/deck-and-fence-pro/
+10:14:36	Warning: 	Moved Permanently for theprogroup.co.nz/?p=3120
+10:14:36	Warning: 	File has moved from theprogroup.co.nz/?p=3120 to http://theprogroup.co.nz/prep-and-paint-pro/
+10:14:36	Warning: 	Moved Permanently for theprogroup.co.nz/?p=3117
+10:14:36	Warning: 	File has moved from theprogroup.co.nz/?p=3117 to http://theprogroup.co.nz/garage-carpet-pro/
+10:14:36	Warning: 	Moved Permanently for theprogroup.co.nz/?p=3103
+10:14:36	Warning: 	File has moved from theprogroup.co.nz/?p=3103 to http://theprogroup.co.nz/terms-and-conditions/
+10:14:36	Error: 	"Not Found" (404) at link theprogroup.co.nz/wp-content/themes/namo/img/loader.gif (from theprogroup.co.nz/wp-content/themes/namo/style.css)
+
+HTTrack Website Copier/3.49-1 mirror complete in 3 minutes 43 seconds : 115 links scanned, 106 files written (6704063 bytes overall) [5786293 bytes received at 25947 bytes/sec], 1355248 bytes transferred using HTTP compression in 49 files, ratio 26%, 2.5 requests per connection
+(2 errors, 15 warnings, 0 messages)
